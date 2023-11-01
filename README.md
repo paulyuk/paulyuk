@@ -7,7 +7,7 @@ As a lead product manager for Azure Developer Compute at Microsoft, I am respons
 [![@paulyuks's Holopin board](https://holopin.io/api/user/board?user=paulyuk)](https://holopin.io/@paulyuk)
 
 - 🔭 I’m currently working on Azure Functions, Dapr (especially quickstarts and Dapr in Azure), microservices, and adding AI features to apps
-- 🌱 I’m currently learning ChatGPT, embeddings, and RAGR; techniques for high scale serverless
+- 🌱 I’m currently learning ChatGPT, embeddings, and RAG; techniques for high scale serverless
 - 📫 How to reach me: @paulyuki99 on Twitter
 - ⚡ Fun fact: I love skiing and I play guitar
 
