@@ -1,6 +1,6 @@
 ### Hi there welcome to my github profile 👋
 
-Head of Product, Azure Serverless, Microsoft Dapr member, maintainer for quickstarts, steering and technical oversight committee
+Product Builder, Azure Serverless, Microsoft Dapr member, maintainer for quickstarts, steering and technical oversight committee
 
 As a lead product manager for Azure Developer Compute at Microsoft, I am responsible for the PM team that builds developer experiences for serverless and microservices applications in the cloud. This includes Azure Functions, portions of Azure skills in Copilot, and also Microsoft's contributions to Dapr (a CNCF graduated project for building microservices). In my role I'm very passionate about helping developers succeed building high-scale distributed applications, and building a strong collaboration with customers so we're in tune with their needs. We're having fun learning and challenging the status quo in a breadth of technologies and languages, e.g. Linux, Windows, Python, Node, Go, Java, .NET, Serverless, containers, service meshes, and application observability. I've been known to stay up late building and vibe coding..
 
