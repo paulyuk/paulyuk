@@ -1,8 +1,8 @@
 ### Hey, I'm Paul 👋
 
-I lead product for **Azure Functions & serverless** at Microsoft's CoreAI team. My team designs the developer experience for event-driven, serverless applications — from the programming model to hyper-scale infrastructure.
+I lead product for Azure Functions & serverless at Microsoft's CoreAI team. My team designs the developer experience for event-driven, serverless applications — from the programming model to hyper-scale infrastructure.
 
-But I'm not just a PM who writes specs. **I build. I learn. Daily.** Right now I'm deep in AI agents, connecting LLMs in Foundry to real enterprise workflows through M365, Azure Functions, and the Copilot SDK. I believe the best product leaders stay close to the code and close to the customer.
+But I'm not just a PM who writes specs. I build. I learn. Daily. Right now I'm deep in AI agents, connecting LLMs in Foundry to real enterprise workflows through M365, Azure Functions, and the Copilot SDK. I believe the best product leaders stay close to the code and close to the customer.
 
 I'm also passionate about building a team that loves what they do. I invest heavily in my people's growth and in using our own tools to make ourselves more productive. Because if we can't make it work for us, we can't make it work for anyone.
 
