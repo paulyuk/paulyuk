@@ -19,5 +19,3 @@ I'm also passionate about building a team that loves what they do. I invest heav
 - ⚡ Fun fact: I love skiing and I play guitar
 
 📫 [@paulyuki99](https://twitter.com/paulyuki99) on Twitter
-
-[![@paulyuks's Holopin board](https://holopin.io/api/user/board?user=paulyuk)](https://holopin.io/@paulyuk)
