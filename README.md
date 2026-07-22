@@ -11,7 +11,7 @@ I'm also passionate about building a team that loves what they do. I invest heav
 - 🧠 [Azure Skills for Copilot](https://github.com/microsoft/GitHub-Copilot-for-Azure) — AI skills that help developers build, deploy, and operate on Azure
 - ⚡ [Azure Developer CLI (azd)](https://github.com/azure/azure-dev) — the fastest path from code to cloud
 - 🧩 [Dapr Quickstarts](https://github.com/dapr/quickstarts) — hands-on guides for building microservices with [Dapr](https://dapr.io) (CNCF graduated)
-- LOTS of serverless agents: [English/markdown/m365/Teams](https://github.com/Azure-Samples/m365-inbox-serverless-agent-python), [Python](https://github.com/Azure-Samples/simple-agent-functions-python/tree/paulyuk-foundry-hosted-agents-python), [TypeScript](https://github.com/Azure-Samples/simple-agent-functions-typescript/), [.NET](https://github.com/Azure-Samples/simple-agent-functions-python/tree/paulyuk-foundry-hosted-agents-dotnet)
+- LOTS of serverless agents: [English/markdown/m365/Teams](https://github.com/Azure-Samples/m365-inbox-serverless-agent-python), [Python](https://github.com/Azure-Samples/simple-agent-functions-python/tree/paulyuk-foundry-hosted-agents-python), [TypeScript](https://github.com/Azure-Samples/simple-agent-functions-typescript/), [.NET](https://github.com/Azure-Samples/simple-agent-functions-dotnet/))
 
 #### Right now
 
