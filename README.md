@@ -1,4 +1,4 @@
-### Hey, I'm Paul 👋
+### I build developer experiences across Azure
 
 I own and build the developer experience across Azure services, including ACA Sandboxes, AI Gateway, App Service, Functions, Connectors, Hosted Skills, and Durable Task Scheduler. I do this as a Member of Technical Staff on Microsoft's CoreAI team.
 
