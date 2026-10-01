@@ -1,6 +1,6 @@
 ### Hey, I'm Paul 👋
 
-I lead product for Azure Functions & serverless at Microsoft's CoreAI team, and developer experience for the broader Compute Foundations org. My team designs the developer experience for event-driven, serverless applications: from the programming model to hyper-scale infrastructure.
+I'm a Member of Technical Staff on Microsoft's CoreAI team, where I own and build the developer experience across Azure services, including ACA Sandboxes, AI Gateway, App Service, Functions, Connectors, Hosted Skills, and Durable Task Scheduler.
 
 Building and learning is my favorite. I build daily. Right now I'm deep in AI agents, connecting LLMs in Foundry to real enterprise workflows through M365, Azure Functions, and the Copilot SDK. Check out this [frontier agent running in m365 inbox and teams](https://github.com/Azure-Samples/m365-inbox-serverless-agent-python), doing your custom automations.  
 
