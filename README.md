@@ -23,3 +23,4 @@ I'm also passionate about building a team that loves what they do. I invest heav
 - :) Removing em-dashes from slop!
 
 📫 [@paulyuki99](https://twitter.com/paulyuki99) on Twitter
+🔗 [Paul Yuknewicz](https://www.linkedin.com/in/paul-yuknewicz-50a91125/) on LinkedIn
