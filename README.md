@@ -8,6 +8,8 @@ I'm also passionate about building a team that loves what they do. I invest heav
 
 #### What I'm building & maintaining
 
+- 🎨 Canvases — releasing an all-new developer experience
+- ⚙️ [Azure CLI extension for AI Gateway (`az aigateway`)](https://github.com/Azure/ai-gateway/tree/main/cli)
 - 🧰 [Azure Skills for Copilot](https://github.com/microsoft/GitHub-Copilot-for-Azure) — AI skills that help developers build, deploy, and operate on Azure
 - ⚡ [Azure Developer CLI (azd)](https://github.com/azure/azure-dev) — the fastest path from code to cloud
 - 🧩 [Dapr Quickstarts](https://github.com/dapr/quickstarts) — hands-on guides for building microservices with [Dapr](https://dapr.io) (CNCF graduated)
