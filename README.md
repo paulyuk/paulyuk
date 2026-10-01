@@ -1,6 +1,6 @@
-### Hey, I'm Paul 👋
+### I build developer experiences across Azure
 
-I lead product for Azure Functions & serverless at Microsoft's CoreAI team, and developer experience for the broader Compute Foundations org. My team designs the developer experience for event-driven, serverless applications: from the programming model to hyper-scale infrastructure.
+I own and build the developer experience across Azure services, including ACA Sandboxes, AI Gateway, App Service, Functions, Connectors, Hosted Skills, and Durable Task Scheduler. I do this as a Member of Technical Staff on Microsoft's CoreAI team.
 
 Building and learning is my favorite. I build daily. Right now I'm deep in AI agents, connecting LLMs in Foundry to real enterprise workflows through M365, Azure Functions, and the Copilot SDK. Check out this [frontier agent running in m365 inbox and teams](https://github.com/Azure-Samples/m365-inbox-serverless-agent-python), doing your custom automations.  
 
@@ -8,16 +8,20 @@ I'm also passionate about building a team that loves what they do. I invest heav
 
 #### What I'm building & maintaining
 
-- 🧠 [Azure Skills for Copilot](https://github.com/microsoft/GitHub-Copilot-for-Azure) — AI skills that help developers build, deploy, and operate on Azure
+- 🎨 [Canvases](https://github.com/microsoft/azure-dev-tools) — releasing an all-new developer experience
+- ⚙️ [Azure CLI extension for AI Gateway (`az aigateway`)](https://github.com/Azure/ai-gateway/tree/main/cli)
+- 🧰 [Azure Skills for Copilot](https://github.com/microsoft/GitHub-Copilot-for-Azure) — AI skills that help developers build, deploy, and operate on Azure
 - ⚡ [Azure Developer CLI (azd)](https://github.com/azure/azure-dev) — the fastest path from code to cloud
 - 🧩 [Dapr Quickstarts](https://github.com/dapr/quickstarts) — hands-on guides for building microservices with [Dapr](https://dapr.io) (CNCF graduated)
 - LOTS of serverless agents: [English/markdown/m365/Teams](https://github.com/Azure-Samples/m365-inbox-serverless-agent-python), [Python](https://github.com/Azure-Samples/simple-agent-functions-python/tree/paulyuk-foundry-hosted-agents-python), [TypeScript](https://github.com/Azure-Samples/simple-agent-functions-typescript/), [.NET](https://github.com/Azure-Samples/simple-agent-functions-dotnet/)
 
 #### Right now
 
+- 🚀 Bringing Azure's canvas marketplace to production: three plugins shipped
 - 🔭 Working on Gateways, Models, MCP tools, Connectors, agent skills, and making serverless + AI feel like one cohesive thing
 - 🌱 Learning agent loops, skills authoring, and vibe coding (yes, I stay up late building)
 - ⚡ Fun fact: I love skiing and I play guitar, and I'm in a Grateful Dead phase right now
 - :) Removing em-dashes from slop!
 
 📫 [@paulyuki99](https://twitter.com/paulyuki99) on Twitter
+🔗 [Paul Yuknewicz](https://www.linkedin.com/in/paul-yuknewicz-50a91125/) on LinkedIn
