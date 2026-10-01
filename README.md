@@ -17,7 +17,7 @@ I'm also passionate about building a team that loves what they do. I invest heav
 
 #### Right now
 
-- 🚀 Shipping the first canvases
+- 🚀 Bringing Azure's canvas marketplace to production: three plugins shipped
 - 🔭 Working on Gateways, Models, MCP tools, Connectors, agent skills, and making serverless + AI feel like one cohesive thing
 - 🌱 Learning agent loops, skills authoring, and vibe coding (yes, I stay up late building)
 - ⚡ Fun fact: I love skiing and I play guitar, and I'm in a Grateful Dead phase right now
